@@ -1,0 +1,6 @@
+D:\TeapotServer\TeapotServer\bin\Debug\TeapotServer.exe.config
+D:\TeapotServer\TeapotServer\obj\Debug\TeapotServer.csprojResolveAssemblyReference.cache
+D:\TeapotServer\TeapotServer\bin\Debug\TeapotServer.exe
+D:\TeapotServer\TeapotServer\bin\Debug\TeapotServer.pdb
+D:\TeapotServer\TeapotServer\obj\Debug\TeapotServer.exe
+D:\TeapotServer\TeapotServer\obj\Debug\TeapotServer.pdb
