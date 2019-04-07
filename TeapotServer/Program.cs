@@ -20,6 +20,7 @@ namespace TeapotServer
                 System.Net.HttpListener listener = new System.Net.HttpListener();
                 listener.Prefixes.Add("http://" + text[1] + ":" + text[2] + "/");
                 listener.Start();
+                
                 while (true) { 
                 var con = listener.GetContext();
                 Console.WriteLine(con.Request.RawUrl);
@@ -28,7 +29,8 @@ namespace TeapotServer
                         case "GET":
                             try
                             {
-                                var bytes = System.IO.File.ReadAllBytes("html/" + con.Request.RawUrl);
+                                string Path = "html" + con.Request.RawUrl;
+                                var bytes = System.IO.File.ReadAllBytes(Path);
                                 con.Response.OutputStream.Write(bytes, 0, bytes.Length);
                                 con.Response.OutputStream.Flush();
                             }

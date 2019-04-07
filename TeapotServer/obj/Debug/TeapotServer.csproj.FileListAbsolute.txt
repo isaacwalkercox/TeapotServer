@@ -4,3 +4,10 @@ D:\TeapotServer\TeapotServer\bin\Debug\TeapotServer.exe
 D:\TeapotServer\TeapotServer\bin\Debug\TeapotServer.pdb
 D:\TeapotServer\TeapotServer\obj\Debug\TeapotServer.exe
 D:\TeapotServer\TeapotServer\obj\Debug\TeapotServer.pdb
+C:\Users\Isaac\teapot\TeapotServer\bin\Debug\TeapotServer.exe.config
+C:\Users\Isaac\teapot\TeapotServer\bin\Debug\TeapotServer.exe
+C:\Users\Isaac\teapot\TeapotServer\bin\Debug\TeapotServer.pdb
+C:\Users\Isaac\teapot\TeapotServer\obj\Debug\TeapotServer.csprojAssemblyReference.cache
+C:\Users\Isaac\teapot\TeapotServer\obj\Debug\TeapotServer.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\teapot\TeapotServer\obj\Debug\TeapotServer.exe
+C:\Users\Isaac\teapot\TeapotServer\obj\Debug\TeapotServer.pdb
